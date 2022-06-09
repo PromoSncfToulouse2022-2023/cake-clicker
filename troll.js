@@ -1,10 +1,3 @@
-if (typeof $ === 'undefined') {
-
-	alert('RTFM');
-	alert('qui s\'appele README.md');
-
-}
-
 function togglePanda(opened){
 	var sad = document.querySelector('.sad-panda');
 	var body = document.querySelector('body');
